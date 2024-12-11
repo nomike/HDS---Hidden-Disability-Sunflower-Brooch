@@ -4,7 +4,7 @@ epsilon = 1;
 insert_width = 5.1;
 insert_length = 25.5;
 knob_diameter = 2;
-knob_distance = 6;
+knob_distance = 7;
 layer_height = 0.2;
 
 
