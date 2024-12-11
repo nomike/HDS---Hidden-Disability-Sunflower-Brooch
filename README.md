@@ -8,7 +8,7 @@ This scheme has been adopted by many airports and train companies around the wor
 are trained to spot the lanyards and help the wearer.
 
 Now you can wear the sunflower as a brooch, to signal that you have a hidden disability. It can be
-anything (e.g. autism, anxiety, chronic pain, PTSD, dementia, chronic fatigue, etc) and you don't
+anything (e.g. ADHD, autism, anxiety, chronic pain, PTSD, dementia, chronic fatigue, etc) and you don't
 need an official diagnosis.
 
 #### Needed parts
@@ -40,4 +40,4 @@ algorithm.
 
 #### GitHub
 
-<>
+<https://github.com/nomike/HDS---Hidden-Disability-Sunflower-Brooch>
