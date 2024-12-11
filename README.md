@@ -11,6 +11,8 @@ Now you can wear the sunflower as a brooch, to signal that you have a hidden dis
 anything (e.g. ADHD, autism, anxiety, chronic pain, PTSD, dementia, chronic fatigue, etc) and you don't
 need an official diagnosis.
 
+You can find more info about that on <https://hdsunflower.com/>.
+
 #### Needed parts
 
 Apart from the print, you need a brooch finding (also known as
