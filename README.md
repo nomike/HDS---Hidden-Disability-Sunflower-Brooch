@@ -38,7 +38,7 @@ algorithm.
 
 #### Thingiverse
 
-<https://thingiverse.com/thing:>
+<https://thingiverse.com/thing:6866973>
 
 #### GitHub
 
