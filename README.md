@@ -45,7 +45,7 @@ Be sure to use a [recent version of OpenSCAD](https://openscad.org/downloads.htm
 
 #### Printables
 
-<>
+Not yet published there.
 
 #### Thingiverse
 
