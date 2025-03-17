@@ -17,7 +17,7 @@ You can find more info about that on <https://hdsunflower.com/>.
 
 Apart from the print, you need a brooch finding (also known as
 brooch pin). I've rendered it to fit 25 mm brooch pins, but as the design is parametric, you can
-adapt it to fit any size. You can find those brooch pins in craft stores or on the big online
+adapt it to fit any size. You can find those brooch pins in craft stores or at the big online
 retailers.
 
 #### Assembly
@@ -35,6 +35,10 @@ magic to slice off one of the ray flowers and convert it to a vector graphic.
 
 This vector graphic is imported into OpenSCAD and aranged into a full flowerhead using a simple
 algorithm.
+
+#### Printables
+
+<>
 
 #### Thingiverse
 
